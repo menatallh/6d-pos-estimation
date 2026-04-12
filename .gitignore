@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But allow directories (so Git can traverse them)
+!*/
+
+# Allow only .py files
+!*.py
+
+# Also allow .gitignore itself (optional)
+!.gitignore
