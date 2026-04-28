@@ -65,11 +65,11 @@ The network outputs:
 
 
 
-###  Results on Speed+ DataSet
+#  Results on Speed+ DataSet
 
 
 
-##  Bounding Box Detection
+###  Bounding Box Detection
 
 Mask R‑CNN provides 2D bounding boxes and instance masks for all detected objects.
 
