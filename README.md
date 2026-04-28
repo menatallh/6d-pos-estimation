@@ -57,7 +57,41 @@ The network outputs:
 - **Rotation** (3×3 matrix or quaternion)
 - **Translation** (x, y, z in camera coordinates)
 
+
 ![Predicted orientations](figures/pos_predictions.png)  
 *Predicted orientations *
 
 ---
+
+
+
+###  Results on Speed+ DataSet
+
+
+
+##  Bounding Box Detection
+
+Mask R‑CNN provides 2D bounding boxes and instance masks for all detected objects.
+
+![Bounding box detection](figures/bb_sat_detection_speed.png)  
+*Example: Detected bounding boxes on speed+  image.*
+
+
+
+### 2. Processing Pipeline
+
+Each sampled orientation is processed as follows:
+![Processing steps](figures/sat_processed_imgs_speed.png)
+
+### 3. Predicted Orientations
+
+The network outputs:
+- **Rotation** (3×3 matrix or quaternion)
+- **Translation** (x, y, z in camera coordinates)
+
+
+![Predicted orientations](figures/pos_predictions_speed.png)  
+*Predicted orientations *
+
+
+
