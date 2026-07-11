@@ -1,19 +1,10 @@
 
 
 
-
-<iframe 
-  width="100%" 
-  height="400" 
-  src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/VvvaoS6idao)" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+[![Watch the demo video](figures/frame_00000.jpg)](https://youtu.be/VvvaoS6idao)
 
 
-https://youtu.be/VvvaoS6idao
+
 
 # 6D Object Pose Estimation for Space Applications using Poet + Mask R-CNN
 
