@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1c40879d-782a-4736-8cb0-b84000e0a070
+
 # 6D Object Pose Estimation for Space Applications using Poet + Mask R-CNN
 
 This repository provides a **real‑time 6D pose estimation pipeline** tailored for space environments using **Poet** (single RGB image) + **Mask R-CNN** as the 2D detector. The model has been pre‑trained/fine‑tuned on **SPEED** and **LAB** datasets for space‑relevant objects.
